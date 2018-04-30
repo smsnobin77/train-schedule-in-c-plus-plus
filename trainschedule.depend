@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1485673192 source:c:\users\user\desktop\trainschedule\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"admin.h"
+	"user.h"
+	"detail.h"
+	"Passenger.h"
+	"Transport.h"
+	"Traintime.h"
+	"base.h"
+	"chipas.h"
+	"chitran.h"
+	"date.h"
+
+1485669848 c:\users\user\desktop\trainschedule\admin.h
+	<iostream>
+	<string.h>
+
+1485670180 c:\users\user\desktop\trainschedule\user.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1485670177 c:\users\user\desktop\trainschedule\detail.h
+	<iostream>
+	<string.h>
+	"user.h"
+
+1485670304 c:\users\user\desktop\trainschedule\passenger.h
+	<iostream>
+
+1485670408 c:\users\user\desktop\trainschedule\transport.h
+	<iostream>
+
+1485670662 c:\users\user\desktop\trainschedule\traintime.h
+	<iostream>
+
+1485670831 c:\users\user\desktop\trainschedule\base.h
+	<iostream>
+	<string.h>
+
+1485670965 c:\users\user\desktop\trainschedule\chipas.h
+	<iostream>
+	<fstream>
+	"base.h"
+	"Passenger.h"
+
+1485671079 c:\users\user\desktop\trainschedule\chitran.h
+	<iostream>
+	<fstream>
+	"base.h"
+	"Transport.h"
+
+1485671167 c:\users\user\desktop\trainschedule\date.h
+	<iostream>
+
+1485622794 source:c:\users\smsnobin77\desktop\trainschedule\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"admin.h"
+	"user.h"
+	"detail.h"
+	"Passenger.h"
+	"Transport.h"
+	"Traintime.h"
+	"base.h"
+	"chipas.h"
+	"chitran.h"
+	"date.h"
+
+1485619450 c:\users\smsnobin77\desktop\trainschedule\admin.h
+	<iostream>
+	<string.h>
+
+1485619782 c:\users\smsnobin77\desktop\trainschedule\user.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1485619778 c:\users\smsnobin77\desktop\trainschedule\detail.h
+	<iostream>
+	<string.h>
+	"user.h"
+
+1485619906 c:\users\smsnobin77\desktop\trainschedule\passenger.h
+	<iostream>
+
+1485620010 c:\users\smsnobin77\desktop\trainschedule\transport.h
+	<iostream>
+
+1485620264 c:\users\smsnobin77\desktop\trainschedule\traintime.h
+	<iostream>
+
+1485620432 c:\users\smsnobin77\desktop\trainschedule\base.h
+	<iostream>
+	<string.h>
+
+1485620566 c:\users\smsnobin77\desktop\trainschedule\chipas.h
+	<iostream>
+	<fstream>
+	"base.h"
+	"Passenger.h"
+
+1485620680 c:\users\smsnobin77\desktop\trainschedule\chitran.h
+	<iostream>
+	<fstream>
+	"base.h"
+	"Transport.h"
+
+1485620768 c:\users\smsnobin77\desktop\trainschedule\date.h
+	<iostream>
+
